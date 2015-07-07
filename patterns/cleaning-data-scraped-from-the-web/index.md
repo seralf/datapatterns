@@ -1,4 +1,14 @@
 
+---
+layout: pattern
+title: Cleaning up Data Scraped from the Web
+tags: 
+---
+
+
+
+
+
 Cleaning up Data Scraped from the Web
 =====================================
 
